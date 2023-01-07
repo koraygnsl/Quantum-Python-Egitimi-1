@@ -1,1 +1,1 @@
-# Quantum-Python-Egitimi
+# QuantumTeam-Python-Egitimi-1
